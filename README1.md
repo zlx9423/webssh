@@ -1,5 +1,13 @@
 learning coding
 
+需要自己输入的部分是:build and development setting 下  Run command
+huashengdun/webssh
+
+python run.py --xsrf=False --xheaders=False --origin='*' --debug --delay=6
+
+
+以及 Exposing your service   Port:8888
+
 workers反代代码
 
 
@@ -19,4 +27,5 @@ export default {
 url.hostname = ssh.website2024.dedyn.io
 
 
-//https://zelikk.blogspot.com/2023/10/huashengdun-webssh-codesandbox.html//https://github.com/huashengdun/webssh
+//https://zelikk.blogspot.com/2023/10/huashengdun-webssh-codesandbox.html
+//https://github.com/huashengdun/webssh//
